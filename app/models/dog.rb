@@ -8,6 +8,6 @@ class Dog
   end 
   
   def save 
-    self.all << 
+    self.all << self
   end 
 end 
