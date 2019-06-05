@@ -7,5 +7,7 @@ class Dog
     ALL
   end 
   
-  def 
+  def save 
+    
+  end 
 end 
